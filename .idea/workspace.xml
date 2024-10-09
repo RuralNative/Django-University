@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="275464ce-29a6-4704-bd21-b79075a98924" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Django-University.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django-University.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/Classes/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/Classes/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Classes/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Classes/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +31,13 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/jbleo/Documents/GitHub/Tech-Academy/Django-University",
+    "last_opened_file_path": "C:/Python",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -57,7 +62,7 @@
       <workItem from="1728508364722" duration="125000" />
       <workItem from="1728508491793" duration="32000" />
       <workItem from="1728515779394" duration="107000" />
-      <workItem from="1728515910116" duration="395000" />
+      <workItem from="1728515910116" duration="1197000" />
     </task>
     <servers />
   </component>
